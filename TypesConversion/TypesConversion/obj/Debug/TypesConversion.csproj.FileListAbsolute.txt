@@ -1,0 +1,7 @@
+C:\Users\bradl\Desktop\C#\TypesConversion\TypesConversion\bin\Debug\TypesConversion.exe.config
+C:\Users\bradl\Desktop\C#\TypesConversion\TypesConversion\bin\Debug\TypesConversion.exe
+C:\Users\bradl\Desktop\C#\TypesConversion\TypesConversion\bin\Debug\TypesConversion.pdb
+C:\Users\bradl\Desktop\C#\TypesConversion\TypesConversion\obj\Debug\TypesConversion.csprojAssemblyReference.cache
+C:\Users\bradl\Desktop\C#\TypesConversion\TypesConversion\obj\Debug\TypesConversion.csproj.CoreCompileInputs.cache
+C:\Users\bradl\Desktop\C#\TypesConversion\TypesConversion\obj\Debug\TypesConversion.exe
+C:\Users\bradl\Desktop\C#\TypesConversion\TypesConversion\obj\Debug\TypesConversion.pdb

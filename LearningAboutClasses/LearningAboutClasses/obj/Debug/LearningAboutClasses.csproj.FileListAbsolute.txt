@@ -1,0 +1,2 @@
+C:\Users\bradl\Desktop\C#\LearningAboutClasses\LearningAboutClasses\obj\Debug\LearningAboutClasses.csprojAssemblyReference.cache
+C:\Users\bradl\Desktop\C#\LearningAboutClasses\LearningAboutClasses\obj\Debug\LearningAboutClasses.csproj.CoreCompileInputs.cache
